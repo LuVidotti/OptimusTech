@@ -1,0 +1,30 @@
+.conquistas {
+    padding: 0 6em 5em 6em;
+}
+
+.conquistas__lista {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 2em;
+}
+
+.conquistas__item {
+    list-style: none;
+}
+
+.conquistas__nmr {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.conquistas__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 1.5em 0 1em 0;
+    color: var(--preto);
+}
+
+.conquistas__texto {
+    color: var(--cinza);
+}

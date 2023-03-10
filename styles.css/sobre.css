@@ -1,0 +1,20 @@
+.sobre {
+    text-align: center;
+    margin: 10em;
+}
+
+.sobre-nos {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.sobre__diferencial {
+    font-size: 48px;
+    font-weight: 600;
+    margin: 1em 0;
+}
+
+.sobre__texto {
+    font-size: 20px;
+    color: var(--cinza);
+}

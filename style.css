@@ -1,0 +1,31 @@
+@import url(styles.css/header.css);
+@import url(styles.css/sobre.css);
+@import url(styles.css/conquistas.css);
+@import url(styles.css/procura.css);
+@import url(styles.css/vagas.css);
+@import url(styles.css/opiniao-colaboradores.css);
+@import url(styles.css/formulario.css);
+
+:root {
+    --branco: #FFFFFF;
+    --vermelho: #8E2424;
+    --fundo-secundario: rgba(196, 25, 25, 0.03);
+    --cinza: #667085;
+    --cor-logo: #3A404E;
+    --preto: #101828;
+    --cor-borda: #EAECF0;
+    --fundo-form: #F9FAFB;
+    --cinza-claro: #98A2B3;
+    --cor-borda: #D0D5DD;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}

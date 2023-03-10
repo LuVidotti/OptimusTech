@@ -1,0 +1,33 @@
+.opiniao-colaboradores {
+    margin: 0 112px 96px 112px;
+    background-color: var(--fundo-secundario);
+    border-radius: 16px;
+    padding: 64px;
+    text-align: center;
+}
+
+.opiniao__texto {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.opiniao__titulo {
+    font-size: 36px;
+    font-weight: 500;
+    margin-top: 16px;
+    margin-bottom: 32px;
+    color: var(--preto);
+}
+
+.perfil--nome {
+    font-weight: 500;
+    color: var(--preto);
+    margin: 16px 0;
+}
+
+.perfil--cargo {
+    font-size: 14px;
+    color: var(--cinza);
+}
+

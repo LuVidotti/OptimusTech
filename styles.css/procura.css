@@ -1,0 +1,28 @@
+.procura {
+    text-align: center;
+    padding-top: 5em;
+}
+
+.vagas-abertas {
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 500;
+    color: var(--vermelho);
+    background: var(--fundo-secundario);
+    border-radius: 16px;
+    padding: 4px 12px;
+}
+
+.procura__titulo {
+    font-size: 44px;
+    font-weight: 600;
+    color: var(--preto);
+    margin: .5em 0;
+}
+
+.procura__texto {
+    font-size: 20px;
+    color: var(--cinza);
+    margin-bottom: 64px;
+}
+
